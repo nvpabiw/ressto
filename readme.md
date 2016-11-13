@@ -9,6 +9,7 @@ bin/
 	deactive
 source/
 	3df594ec800202f1	
+		info.json
 		/persons
 			peter.txt
 		/images
